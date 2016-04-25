@@ -34,8 +34,7 @@
         <booklists>
             <toc/>
         </booklists>
-        <!-- <bookabstract href="concepts/taskbook-abstract.dita"></bookabstract> -->
-        <bookabstract href="https://github.com/unisimlsatts/dita/blob/ac8c96553580945def40ed2f1df2801e0583dc46/taskbook-abstract.dita"></bookabstract>
+        <bookabstract href="concepts/taskbook-abstract.dita"></bookabstract>
     </frontmatter>
     <chapter href="topics/accessing_unilearn.dita"></chapter>
     <!-- <topicref href="topics/password.dita"></topicref> -->
