@@ -5,6 +5,7 @@
   <conbody>
     <p>
       UniLearn is SIM University’s full online learning platform. It is one of the several channels for learning at UniSIM. UniLearn is created for students who seek flexibility in learning and offers opportunities to anyone for lifelong learning.</p>
-    <p><image href="../images/taskbook-abstract.png" id="image_ck4_5kd_qv" scalefit="yes"/></p>
+    <p><image href="../images/taskbook-abstract.png" id="image_ck4_5kd_qv" scalefit="yes" placement="break"
+        align="left" height="400" width="600"/></p>
   </conbody>
 </concept>
