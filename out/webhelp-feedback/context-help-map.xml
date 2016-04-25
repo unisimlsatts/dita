@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map productID="UniLearn-Webhelp" productVersion="1.0">
+   <appContext helpID="concept-1" path="concepts/taskbook-abstract.html"/>
+   <appContext helpID="accessing_unilearn" path="topics/accessing_unilearn.html"/>
+   <appContext helpID="password" path="topics/password.html"/>
+   <appContext helpID="technicalsupport" path="topics/technicalsupport.html"/>
+</map>
