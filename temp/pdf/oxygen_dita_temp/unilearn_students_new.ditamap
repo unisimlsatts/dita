@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /D:\Dropbox (SIM University)\Leon\Backup\DITA\temp\pdf\oxygen_dita_temp?><?workdir-uri file:/D:/Dropbox%20(SIM%20University)/Leon/Backup/DITA/temp/pdf/oxygen_dita_temp/?><?path2project?><?path2project-uri ./?><!-- (c) Copyright SIM University. May 2015, All Rights Reserved. --><bookmap xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" class="- map/map bookmap/bookmap " ditaarch:DITAArchVersion="1.2" domains="(map bookmap)                          (topic delay-d)                          (map mapgroup-d)                          (topic indexing-d)                           (topic xnal-d)                          (topic hi-d)                           (topic ut-d)                           (topic hazard-d)                          (topic abbrev-d)                          (topic pr-d)                           (topic sw-d)                          (topic ui-d)                         " id="taskbook" xtrc="bookmap:1;5:24" xtrf="D:\Dropbox (SIM University)\Leon\Backup\DITA\unilearn_students_new.ditamap">
+    <booktitle class="- topic/title bookmap/booktitle " xtrc="booktitle:1;6:16" xtrf="D:\Dropbox (SIM University)\Leon\Backup\DITA\unilearn_students_new.ditamap">
+        <booklibrary class="- topic/ph bookmap/booklibrary " xtrc="booklibrary:1;7:22" xtrf="D:\Dropbox (SIM University)\Leon\Backup\DITA\unilearn_students_new.ditamap">UniLearn</booklibrary>
+        <mainbooktitle class="- topic/ph bookmap/mainbooktitle " xtrc="mainbooktitle:1;8:24" xtrf="D:\Dropbox (SIM University)\Leon\Backup\DITA\unilearn_students_new.ditamap">UniLearn Quick User Guide</mainbooktitle>
+        <booktitlealt class="- topic/ph bookmap/booktitlealt " xtrc="booktitlealt:1;9:23" xtrf="D:\Dropbox (SIM University)\Leon\Backup\DITA\unilearn_students_new.ditamap"/>
+    </booktitle>
+    <bookmeta class="- map/topicmeta bookmap/bookmeta " xtrc="bookmeta:1;11:15" xtrf="D:\Dropbox (SIM University)\Leon\Backup\DITA\unilearn_students_new.ditamap">
+        <author class="- topic/author " xtrc="author:1;12:17" xtrf="D:\Dropbox (SIM University)\Leon\Backup\DITA\unilearn_students_new.ditamap">Learning Systems and Applications (LSA)</author>
+        <bookid class="- topic/data bookmap/bookid " xtrc="bookid:1;13:17" xtrf="D:\Dropbox (SIM University)\Leon\Backup\DITA\unilearn_students_new.ditamap">
+            <isbn class="- topic/data bookmap/isbn " xtrc="isbn:1;14:19" xtrf="D:\Dropbox (SIM University)\Leon\Backup\DITA\unilearn_students_new.ditamap"/>
+            <booknumber class="- topic/data bookmap/booknumber " xtrc="booknumber:1;15:25" xtrf="D:\Dropbox (SIM University)\Leon\Backup\DITA\unilearn_students_new.ditamap"/>
+            <maintainer class="- topic/data bookmap/maintainer " xtrc="maintainer:1;16:25" xtrf="D:\Dropbox (SIM University)\Leon\Backup\DITA\unilearn_students_new.ditamap">
+                <organization class="- topic/data bookmap/organization " xtrc="organization:1;17:31" xtrf="D:\Dropbox (SIM University)\Leon\Backup\DITA\unilearn_students_new.ditamap">SIM University</organization>
+                <person class="- topic/data bookmap/person " xtrc="person:1;18:26" xtrf="D:\Dropbox (SIM University)\Leon\Backup\DITA\unilearn_students_new.ditamap"/>
+            </maintainer>
+        </bookid>
+        <bookrights class="- topic/data bookmap/bookrights " xtrc="bookrights:1;21:21" xtrf="D:\Dropbox (SIM University)\Leon\Backup\DITA\unilearn_students_new.ditamap">
+            <copyrfirst class="- topic/data bookmap/copyrfirst " xtrc="copyrfirst:1;22:25" xtrf="D:\Dropbox (SIM University)\Leon\Backup\DITA\unilearn_students_new.ditamap">
+                <year class="- topic/ph bookmap/year " xtrc="year:1;23:23" xtrf="D:\Dropbox (SIM University)\Leon\Backup\DITA\unilearn_students_new.ditamap">2015</year>
+            </copyrfirst>
+            <copyrlast class="- topic/data bookmap/copyrlast " xtrc="copyrlast:1;25:24" xtrf="D:\Dropbox (SIM University)\Leon\Backup\DITA\unilearn_students_new.ditamap">
+                <year class="- topic/ph bookmap/year " xtrc="year:2;26:23" xtrf="D:\Dropbox (SIM University)\Leon\Backup\DITA\unilearn_students_new.ditamap"/>
+            </copyrlast>
+            <bookowner class="- topic/data bookmap/bookowner " xtrc="bookowner:1;28:24" xtrf="D:\Dropbox (SIM University)\Leon\Backup\DITA\unilearn_students_new.ditamap">
+                <organization class="- topic/data bookmap/organization " xtrc="organization:2;29:31" xtrf="D:\Dropbox (SIM University)\Leon\Backup\DITA\unilearn_students_new.ditamap">SIM University</organization>
+            </bookowner>
+        </bookrights>
+    </bookmeta>
+    <frontmatter class="- map/topicref bookmap/frontmatter " xtrc="frontmatter:1;33:18" xtrf="D:\Dropbox (SIM University)\Leon\Backup\DITA\unilearn_students_new.ditamap">
+        <booklists class="- map/topicref bookmap/booklists " xtrc="booklists:1;34:20" xtrf="D:\Dropbox (SIM University)\Leon\Backup\DITA\unilearn_students_new.ditamap">
+            <toc class="- map/topicref bookmap/toc " xtrc="toc:1;35:19" xtrf="D:\Dropbox (SIM University)\Leon\Backup\DITA\unilearn_students_new.ditamap"/>
+        </booklists>
+        <!-- <bookabstract href="concepts/taskbook-abstract.dita"></bookabstract> -->
+        <bookabstract href="https://github.com/unisimlsatts/dita/blob/ac8c96553580945def40ed2f1df2801e0583dc46/taskbook-abstract.dita" class="- map/topicref bookmap/bookabstract " xtrc="bookabstract:1;38:136" xtrf="D:\Dropbox (SIM University)\Leon\Backup\DITA\unilearn_students_new.ditamap"/>
+    </frontmatter>
+    <chapter href="topics/accessing_unilearn.dita" class="- map/topicref bookmap/chapter " xtrc="chapter:1;40:52" xtrf="D:\Dropbox (SIM University)\Leon\Backup\DITA\unilearn_students_new.ditamap"><topicmeta class="- map/topicmeta "><author class="- topic/author " xtrc="author:1;12:17" xtrf="D:\Dropbox (SIM University)\Leon\Backup\DITA\unilearn_students_new.ditamap">Learning Systems and Applications (LSA)</author></topicmeta></chapter>
+    <!-- <topicref href="topics/password.dita"></topicref> -->
+    
+    <chapter href="topics/password.dita" class="- map/topicref bookmap/chapter " xtrc="chapter:2;43:42" xtrf="D:\Dropbox (SIM University)\Leon\Backup\DITA\unilearn_students_new.ditamap"><topicmeta class="- map/topicmeta "><author class="- topic/author " xtrc="author:1;12:17" xtrf="D:\Dropbox (SIM University)\Leon\Backup\DITA\unilearn_students_new.ditamap">Learning Systems and Applications (LSA)</author></topicmeta></chapter>
+    <chapter href="topics/technicalsupport.dita" class="- map/topicref bookmap/chapter " xtrc="chapter:3;44:50" xtrf="D:\Dropbox (SIM University)\Leon\Backup\DITA\unilearn_students_new.ditamap"><topicmeta class="- map/topicmeta "><author class="- topic/author " xtrc="author:1;12:17" xtrf="D:\Dropbox (SIM University)\Leon\Backup\DITA\unilearn_students_new.ditamap">Learning Systems and Applications (LSA)</author></topicmeta></chapter>
+</bookmap>

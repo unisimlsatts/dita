@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="graphics-copy" default="copy-graphics">
+   <target name="copy-graphics">
+      <echo message="Doing copy graphics..."/>
+      <copy toFile="C:\Users\sim\Dropbox (SIM University)\Leon\Backup\DITA\temp\epub\epub_temp\images\accessing_unilearn.png"
+            overwrite="yes">
+         <fileset dir="C:\Users\sim\Dropbox (SIM University)\Leon\Backup\DITA\images">
+            <include name="accessing_unilearn.png"/>
+         </fileset>
+      </copy>
+      <copy toFile="C:\Users\sim\Dropbox (SIM University)\Leon\Backup\DITA\temp\epub\epub_temp\images\accessing_unilearn1.png"
+            overwrite="yes">
+         <fileset dir="C:\Users\sim\Dropbox (SIM University)\Leon\Backup\DITA\images">
+            <include name="accessing_unilearn1.png"/>
+         </fileset>
+      </copy>
+      <copy toFile="C:\Users\sim\Dropbox (SIM University)\Leon\Backup\DITA\temp\epub\epub_temp\images\accessing_unilearn3.png"
+            overwrite="yes">
+         <fileset dir="C:\Users\sim\Dropbox (SIM University)\Leon\Backup\DITA\images">
+            <include name="accessing_unilearn3.png"/>
+         </fileset>
+      </copy>
+      <copy toFile="C:\Users\sim\Dropbox (SIM University)\Leon\Backup\DITA\temp\epub\epub_temp\images\password1.png"
+            overwrite="yes">
+         <fileset dir="C:\Users\sim\Dropbox (SIM University)\Leon\Backup\DITA\images">
+            <include name="password1.png"/>
+         </fileset>
+      </copy>
+      <copy toFile="C:\Users\sim\Dropbox (SIM University)\Leon\Backup\DITA\temp\epub\epub_temp\images\password2.png"
+            overwrite="yes">
+         <fileset dir="C:\Users\sim\Dropbox (SIM University)\Leon\Backup\DITA\images">
+            <include name="password2.png"/>
+         </fileset>
+      </copy>
+      <copy toFile="C:\Users\sim\Dropbox (SIM University)\Leon\Backup\DITA\temp\epub\epub_temp\images\password3.png"
+            overwrite="yes">
+         <fileset dir="C:\Users\sim\Dropbox (SIM University)\Leon\Backup\DITA\images">
+            <include name="password3.png"/>
+         </fileset>
+      </copy>
+      <copy toFile="C:\Users\sim\Dropbox (SIM University)\Leon\Backup\DITA\temp\epub\epub_temp\images\password4.png"
+            overwrite="yes">
+         <fileset dir="C:\Users\sim\Dropbox (SIM University)\Leon\Backup\DITA\images">
+            <include name="password4.png"/>
+         </fileset>
+      </copy>
+      <copy toFile="C:\Users\sim\Dropbox (SIM University)\Leon\Backup\DITA\temp\epub\epub_temp\images\password5.png"
+            overwrite="yes">
+         <fileset dir="C:\Users\sim\Dropbox (SIM University)\Leon\Backup\DITA\images">
+            <include name="password5.png"/>
+         </fileset>
+      </copy>
+   </target>
+</project>

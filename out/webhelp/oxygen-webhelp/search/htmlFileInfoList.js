@@ -1,0 +1,5 @@
+fil = new Array();
+fil["0"]= "concepts/taskbook-abstract.html@@@What is UniLearn?@@@UniLearn is SIM University’s full online learning platform. It is one of the several channels for learning at UniSIM. UniLearn is created for students who seek flexibility in learning and offers...";
+fil["1"]= "topics/accessing_unilearn.html@@@Accessing UniLearn@@@Navigate to http://unilearn.edu.sg via Google Chrome browser. Click on “ Login ”. To log in, use the “ Login credentials ” provided to you via email. Click on “ Log In ”. Upon successful login, you...";
+fil["2"]= "topics/password.html@@@Change Password@@@Click on “ Settings ”. On the right panel, click on “ Edit Settings ”. Under ‘ Password” , tick the checkbox to change password. Under the ‘ Old Password ’ field, enter in the old password provided to...";
+fil["3"]= "topics/technicalsupport.html@@@Technical Support - Getting Help@@@How do I contact Technical Support to get Help? Call 6248-9111 (Press Option 1, follow by option 2) Email: catalog@unisim.edu.sg Operating Hours: 8.30am to 7.30pm (Mon - Fri) 9.00am to 1.00pm (Sat...";

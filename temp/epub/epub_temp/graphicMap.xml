@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gmap:graphic-map xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl"
+                  xmlns:gmap="http://dita4publishers/namespaces/graphic-input-to-output-map">
+   <gmap:graphic-map-item input-url="file:/C:/Users/sim/Dropbox (SIM University)/Leon/Backup/DITA/images/accessing_unilearn.png"
+                          output-url="file:/C:/Users/sim/Dropbox%20(SIM%20University)/Leon/Backup/DITA/temp/epub/epub_temp/images/accessing_unilearn.png"
+                          id="d91e1"/>
+   <gmap:graphic-map-item input-url="file:/C:/Users/sim/Dropbox (SIM University)/Leon/Backup/DITA/images/accessing_unilearn1.png"
+                          output-url="file:/C:/Users/sim/Dropbox%20(SIM%20University)/Leon/Backup/DITA/temp/epub/epub_temp/images/accessing_unilearn1.png"
+                          id="d91e2"/>
+   <gmap:graphic-map-item input-url="file:/C:/Users/sim/Dropbox (SIM University)/Leon/Backup/DITA/images/accessing_unilearn3.png"
+                          output-url="file:/C:/Users/sim/Dropbox%20(SIM%20University)/Leon/Backup/DITA/temp/epub/epub_temp/images/accessing_unilearn3.png"
+                          id="d91e3"/>
+   <gmap:graphic-map-item input-url="file:/C:/Users/sim/Dropbox (SIM University)/Leon/Backup/DITA/images/password1.png"
+                          output-url="file:/C:/Users/sim/Dropbox%20(SIM%20University)/Leon/Backup/DITA/temp/epub/epub_temp/images/password1.png"
+                          id="d91e4"/>
+   <gmap:graphic-map-item input-url="file:/C:/Users/sim/Dropbox (SIM University)/Leon/Backup/DITA/images/password2.png"
+                          output-url="file:/C:/Users/sim/Dropbox%20(SIM%20University)/Leon/Backup/DITA/temp/epub/epub_temp/images/password2.png"
+                          id="d91e5"/>
+   <gmap:graphic-map-item input-url="file:/C:/Users/sim/Dropbox (SIM University)/Leon/Backup/DITA/images/password3.png"
+                          output-url="file:/C:/Users/sim/Dropbox%20(SIM%20University)/Leon/Backup/DITA/temp/epub/epub_temp/images/password3.png"
+                          id="d91e6"/>
+   <gmap:graphic-map-item input-url="file:/C:/Users/sim/Dropbox (SIM University)/Leon/Backup/DITA/images/password4.png"
+                          output-url="file:/C:/Users/sim/Dropbox%20(SIM%20University)/Leon/Backup/DITA/temp/epub/epub_temp/images/password4.png"
+                          id="d91e7"/>
+   <gmap:graphic-map-item input-url="file:/C:/Users/sim/Dropbox (SIM University)/Leon/Backup/DITA/images/password5.png"
+                          output-url="file:/C:/Users/sim/Dropbox%20(SIM%20University)/Leon/Backup/DITA/temp/epub/epub_temp/images/password5.png"
+                          id="d91e8"/>
+</gmap:graphic-map>
