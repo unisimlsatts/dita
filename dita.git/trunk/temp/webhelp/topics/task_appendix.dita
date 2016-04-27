@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?workdir /C:\Users\sim\Dropbox (SIM University)\Leon\Backup\DITA\temp\webhelp\topics?><?workdir-uri file:/C:/Users/sim/Dropbox%20(SIM%20University)/Leon/Backup/DITA/temp/webhelp/topics/?><?path2project ..\?><?path2project-uri ../?><topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="task_appendix" xml:lang="en-us" ditaarch:DITAArchVersion="1.2" domains="(topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)    " class="- topic/topic " xtrf="C:\Users\sim\Dropbox (SIM University)\Leon\Backup\DITA\topics\task_appendix.dita" xtrc="topic:1;8:44">
+<title class="- topic/title " xtrf="C:\Users\sim\Dropbox (SIM University)\Leon\Backup\DITA\topics\task_appendix.dita" xtrc="title:1;9:8">Sample Appendix</title>
+<shortdesc class="- topic/shortdesc " xtrc="shortdesc:1;10:12" xtrf="C:\Users\sim\Dropbox (SIM University)\Leon\Backup\DITA\topics\task_appendix.dita">This appendix describes things that you rarely need
+to know.</shortdesc>
+<prolog class="- topic/prolog "><author class="- topic/author " xtrc="author:1;12:17" xtrf="C:\Users\sim\Dropbox (SIM University)\Leon\Backup\DITA\unilearn_students_new.ditamap">Learning Systems and Applications (LSA)</author></prolog><body class="- topic/body " xtrf="C:\Users\sim\Dropbox (SIM University)\Leon\Backup\DITA\topics\task_appendix.dita" xtrc="body:1;12:7">
+<p class="- topic/p " xtrf="C:\Users\sim\Dropbox (SIM University)\Leon\Backup\DITA\topics\task_appendix.dita" xtrc="p:1;13:4">You can consult this section when you need detailed information
+about a specific component.</p>
+</body>
+</topic>

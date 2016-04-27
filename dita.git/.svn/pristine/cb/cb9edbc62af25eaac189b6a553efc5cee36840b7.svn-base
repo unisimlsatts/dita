@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN"
+ "http://docs.oasis-open.org/dita/v1.1/OS/dtd/topic.dtd">
+<topic id="password" xml:lang="en-us">
+<title>Change Password</title>
+<body>
+  <p>Click on “<b>Settings</b>”.</p>
+      <p><image href="../images/password1.png" id="image_ygf_3nd_qv" scalefit="yes"/></p>
+  <p>On the right panel, click on “<b>Edit Settings</b>”.</p>
+      <p><image href="../images/password2.png" id="image_flz_3nd_qv" scalefit="yes"/></p>
+  <p>Under ‘<b>Password”</b>, tick the checkbox to change password.</p>
+      <p><image href="../images/password3.png" id="image_fhr_jnd_qv" scalefit="yes"/></p>
+  <p>Under the ‘<b>Old Password</b>’ field, enter in the old password provided to you via email.</p>
+  <p>Under the ‘<b>New Password</b>’ field, enter in your desired password.</p>
+  <p>Under the ‘<b>Confirm Password</b>’ field, re-enter in the same password as entered in the “New
+         Password” field.</p>
+  <p>Click on “<b>Update Settings</b>” to proceed.</p>
+      <p><image href="../images/password4.png" id="image_gyc_lnd_qv" scalefit="yes"/></p>
+  <p>To access back to your course, click on the  desired course. In this example, we will be using “SDE102- Developing Academic Writing Skills”.</p>
+      <p><image href="../images/password5.png" id="image_yp5_lnd_qv" scalefit="yes"/></p>
+ 
+</body>
+
+</topic>

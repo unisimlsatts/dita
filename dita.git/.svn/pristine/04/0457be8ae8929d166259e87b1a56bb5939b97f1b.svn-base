@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/topic.dtd">
+<topic id="accessing_unilearn" xml:lang="en-us">
+<title>Accessing UniLearn</title>
+<body>
+ <p>Navigate to <xref href="http://unilearn.edu.sg" format="html" scope="external">http://unilearn.edu.sg</xref> via Google Chrome browser.</p>
+ <p>Click on “<b>Login</b>”.</p>
+ <p><image href="../images/accessing_unilearn.png" id="image_hwg_2md_qv" scalefit="yes" align="left"
+            placement="break" height="400" width="600"/></p>
+      <p/>
+ <p>To log in, use the “<b>Login credentials</b>” provided to you via email.</p>
+      <p/>
+ <p>Click on “<b>Log In</b>”.</p>
+ <p><image href="../images/accessing_unilearn1.png" id="image_qbf_3md_qv" scalefit="yes" align="left"
+            placement="break" height="400" width="600"/></p>
+      <p/>
+ <p>Upon successful login, you will be directed to the Dashboard. The Dashboard lists the courses that you are enrolled in.</p>
+      <p/>
+ <p>Click on “<b>Begin Course</b>” to proceed.</p>
+  <p><image href="../images/accessing_unilearn3.png" id="image_hw1_mmd_qv" scalefit="yes"
+            placement="break" align="left" height="400" width="600"/></p>
+ 
+</body>
+
+</topic>

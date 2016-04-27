@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/"
+     xmlns:ncx="http://www.daisy.org/z3986/2005/ncx/"
+     version="2005-1"
+     xml:lang="en">
+   <head>
+      <meta name="dtb:uid" content=""/>
+      <meta name="dtb:depth" content="1"/>
+      <meta name="dtb:totalPageCount" content="0"/>
+      <meta name="dtb:maxPageNumber" content="0"/>
+   </head>
+   <docTitle>
+      <text>UniLearn Quick User Guide</text>
+   </docTitle>
+   <ncx:navMap>
+      <navPoint playOrder="1" id="d72e70">
+         <navLabel>
+            <text>Chapter 2. Accessing UniLearn</text>
+         </navLabel>
+         <content src="topics/accessing_unilearn_d78.html"/>
+      </navPoint>
+      <navPoint playOrder="2" id="d72e80">
+         <navLabel>
+            <text>Chapter 3. Change Password</text>
+         </navLabel>
+         <content src="topics/password_d83.html"/>
+      </navPoint>
+      <navPoint playOrder="3" id="d72e91">
+         <navLabel>
+            <text>Chapter 4. Technical Support - Getting Help</text>
+         </navLabel>
+         <content src="topics/technicalsupport_d89.html"/>
+      </navPoint>
+   </ncx:navMap>
+</ncx>

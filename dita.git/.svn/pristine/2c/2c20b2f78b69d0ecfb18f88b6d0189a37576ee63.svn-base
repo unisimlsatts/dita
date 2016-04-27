@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE bookmap PUBLIC "-//OASIS//DTD DITA BookMap//EN"
+ "http://docs.oasis-open.org/dita/v1.1/OS/dtd/bookmap.dtd">
+<!-- (c) Copyright SIM University. May 2015, All Rights Reserved. -->
+<bookmap id="taskbook">
+    <booktitle>
+        <booklibrary>UniLearn</booklibrary>
+        <mainbooktitle>UniLearn Quick User Guide</mainbooktitle>
+        <booktitlealt></booktitlealt>
+    </booktitle>
+    <bookmeta>
+        <author>Learning Systems and Applications (LSA)</author>
+        <bookid>
+            <isbn></isbn>
+            <booknumber></booknumber>
+            <maintainer>
+                <organization>SIM University</organization>
+                <person/>
+            </maintainer>
+        </bookid>
+        <bookrights>
+            <copyrfirst>
+                <year>2015</year>
+            </copyrfirst>
+            <copyrlast>
+                <year></year>
+            </copyrlast>
+            <bookowner>
+                <organization>SIM University</organization>
+            </bookowner>
+        </bookrights>
+    </bookmeta>
+    <frontmatter>
+        <booklists>
+            <toc/>
+        </booklists>
+        <bookabstract href="concepts/taskbook-abstract.dita"></bookabstract>
+    </frontmatter>
+    <chapter href="topics/accessing_unilearn.dita"></chapter>
+    <!-- <topicref href="topics/password.dita"></topicref> -->
+    
+    <chapter href="topics/password.dita"></chapter>
+    <chapter href="topics/technicalsupport.dita"></chapter>
+</bookmap>

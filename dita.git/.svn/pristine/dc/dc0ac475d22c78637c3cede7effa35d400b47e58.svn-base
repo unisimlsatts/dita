@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:opf="http://www.idpf.org/2007/opf"
+         version="2.0"
+         unique-identifier="bookid">
+   <metadata>
+      <dc:title>UniLearn Quick User Guide</dc:title>
+      <dc:language id="language">en-US</dc:language>
+      <dc:identifier opf:scheme="isbn" id="bookid"/>
+      <dc:creator opf:role="aut">Learning Systems and Applications (LSA)</dc:creator>
+   </metadata>
+   <manifest>
+      <opf:item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+      <opf:item id="d72e70"
+                href="topics/accessing_unilearn_d78.html"
+                media-type="application/xhtml+xml"/>
+      <opf:item id="d72e80"
+                href="topics/password_d83.html"
+                media-type="application/xhtml+xml"/>
+      <opf:item id="d72e91"
+                href="topics/technicalsupport_d89.html"
+                media-type="application/xhtml+xml"/>
+      <opf:item id="d91e1"
+                href="images/accessing_unilearn.png"
+                media-type="image/png"/>
+      <opf:item id="d91e2"
+                href="images/accessing_unilearn1.png"
+                media-type="image/png"/>
+      <opf:item id="d91e3"
+                href="images/accessing_unilearn3.png"
+                media-type="image/png"/>
+      <opf:item id="d91e4" href="images/password1.png" media-type="image/png"/>
+      <opf:item id="d91e5" href="images/password2.png" media-type="image/png"/>
+      <opf:item id="d91e6" href="images/password3.png" media-type="image/png"/>
+      <opf:item id="d91e7" href="images/password4.png" media-type="image/png"/>
+      <opf:item id="d91e8" href="images/password5.png" media-type="image/png"/>
+      <opf:item id="commonltr.css"
+                href="topics/commonltr.css"
+                media-type="text/css"/>
+      <opf:item id="commonrtl.css"
+                href="topics/commonrtl.css"
+                media-type="text/css"/>
+      <opf:item id="epubStyles.css"
+                href="topics/epubStyles.css"
+                media-type="text/css"/>
+   </manifest>
+   <spine toc="ncx">
+      <opf:itemref idref="d72e70"/>
+      <opf:itemref idref="d72e80"/>
+      <opf:itemref idref="d72e91"/>
+   </spine>
+   <guide/>
+</package>
